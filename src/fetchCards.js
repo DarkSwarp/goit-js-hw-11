@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-API_KEY = '34337580-4a6e8b796eace0e632a6af18e';
+API_KEY = '11240134-58b8f655e9e0f8ae8b6e8e7de';
 URL = 'https://pixabay.com/api/';
 
 export default async function fetchPhoto(inputText, page) {
